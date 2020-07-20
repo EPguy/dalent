@@ -1,0 +1,19 @@
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.category-body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.ranking-body {
+  height:846px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #005082;
+}

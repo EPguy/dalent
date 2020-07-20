@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/dalent/static/css/main.b3e0be5e.chunk.css",
-    "main.js": "/dalent/static/js/main.8bd8d578.chunk.js",
-    "main.js.map": "/dalent/static/js/main.8bd8d578.chunk.js.map",
+    "main.js": "/dalent/static/js/main.617c53ff.chunk.js",
+    "main.js.map": "/dalent/static/js/main.617c53ff.chunk.js.map",
     "runtime-main.js": "/dalent/static/js/runtime-main.8e1e33bd.js",
     "runtime-main.js.map": "/dalent/static/js/runtime-main.8e1e33bd.js.map",
-    "static/js/2.8a506cd0.chunk.js": "/dalent/static/js/2.8a506cd0.chunk.js",
-    "static/js/2.8a506cd0.chunk.js.map": "/dalent/static/js/2.8a506cd0.chunk.js.map",
+    "static/js/2.674f4716.chunk.js": "/dalent/static/js/2.674f4716.chunk.js",
+    "static/js/2.674f4716.chunk.js.map": "/dalent/static/js/2.674f4716.chunk.js.map",
     "index.html": "/dalent/index.html",
-    "precache-manifest.3b5a202bb4fc6bbd168e78625fc3ed1d.js": "/dalent/precache-manifest.3b5a202bb4fc6bbd168e78625fc3ed1d.js",
+    "precache-manifest.8cd6903a8b15370afb6857dc992f9eac.js": "/dalent/precache-manifest.8cd6903a8b15370afb6857dc992f9eac.js",
     "service-worker.js": "/dalent/service-worker.js",
     "static/css/main.b3e0be5e.chunk.css.map": "/dalent/static/css/main.b3e0be5e.chunk.css.map",
-    "static/js/2.8a506cd0.chunk.js.LICENSE.txt": "/dalent/static/js/2.8a506cd0.chunk.js.LICENSE.txt",
+    "static/js/2.674f4716.chunk.js.LICENSE.txt": "/dalent/static/js/2.674f4716.chunk.js.LICENSE.txt",
     "static/media/background.png": "/dalent/static/media/background.f8c5ad9c.png",
     "static/media/post.png": "/dalent/static/media/post.3fab96ae.png",
     "static/media/profile.png": "/dalent/static/media/profile.c1707cd1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e1e33bd.js",
-    "static/js/2.8a506cd0.chunk.js",
+    "static/js/2.674f4716.chunk.js",
     "static/css/main.b3e0be5e.chunk.css",
-    "static/js/main.8bd8d578.chunk.js"
+    "static/js/main.617c53ff.chunk.js"
   ]
 }

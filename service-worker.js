@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dalent/precache-manifest.8cd6903a8b15370afb6857dc992f9eac.js"
+  "/dalent/precache-manifest.ac2975cb1f0e3fc8b5611da5b6b8d9f8.js"
 );
 
 self.addEventListener('message', (event) => {
